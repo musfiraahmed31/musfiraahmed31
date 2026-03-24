@@ -13,7 +13,7 @@ I don't just want to write code; I want to solve real-world problems. I believe 
 
 - 🔭 **Currently working on:** Building my problem-solving skills with challenging projects like an **AI-powered Study Bot** and **Secure Web Portals**.
 - 🌱 **Currently learning:** Advanced Full-Stack architectures and scalable coding practices.
-- 🎯 **Goals:** To turn difficult problems into working, user-friendly solutions.
+- 🎯 **Goals:** To turn difficult problems into working, user-friendly solutions.<br><br>
 
 ### 💼 Experience & Leadership
 - **Management Team Member** @ *CodeWar Season III (HITEC University)* — Focused on event management, team coordination, and facilitating a massive hackathon environment.
