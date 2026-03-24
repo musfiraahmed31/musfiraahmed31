@@ -45,8 +45,7 @@ I don't just want to write code; I want to solve real-world problems. I believe 
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfiraahmed31&theme=radical&hide_border=true&include_all_commits=true" alt="Musfira's GitHub Stats" />
-  <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=musfiraahmed31&theme=radical&hide_border=true" alt="Musfira's GitHub Stats" />  <br><br>
   
   <img src="https://streak-stats.demolab.com/?user=musfiraahmed31&theme=radical&hide_border=true" alt="Musfira's Streak Stats" /> 
   <br><br>
