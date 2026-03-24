@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, 👋 I'm Musfira Ahmed!</h1>
+<h1 align="center">Hi there, I'm Musfira Ahmed! 👋 </h1>
 
 <h3 align="center">Software Engineering Student | Aspiring Full-Stack Developer | Passionate about Scalable Code & Problem Solving</h3>
 
@@ -19,15 +19,6 @@ I don't just want to write code; I want to solve real-world problems. I believe 
 - **Management Team Member** @ *CodeWar Season III (HITEC University)* — Focused on event management, team coordination, and facilitating a massive hackathon environment.
 - **Digital Marketing Intern** @ *GlaxIT* — Applied digital marketing strategies and grew my cross-functional skill set.
 
----
-
-### 🤝 Let's Collaborate!
-I am always looking to expand my network and work on exciting projects. Feel free to reach out if you want to collaborate on:
-- 💻 **Open Source Projects:** Especially those focused on web development and solving real-world challenges.
-- 🎨 **Front-End Design:** Bringing creative UI/UX concepts to life using HTML, CSS, JavaScript, and Bootstrap.
-- 🚀 **Hackathons & Tech Events:** I love the energy of hackathons (having managed one myself!) and am always down to join a team.
-
----
 
 ### 🌐 Connect with Me:
 <div align="center">
@@ -54,9 +45,9 @@ I am always looking to expand my network and work on exciting projects. Feel fre
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musfira-ahmed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" /> 
+  <img src="https://streak-stats.demolab.com/?user=musfira-ahmed&theme=tokyonight&hide_border=true" alt="Streak Stats" /> 
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfira-ahmed&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
