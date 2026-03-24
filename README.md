@@ -17,7 +17,7 @@ I don't just want to write code; I want to solve real-world problems. I believe 
 
 ### 💼 Experience & Leadership
 - **Management Team Member** @ *CodeWar Season III (HITEC University)* — Focused on event management, team coordination, and facilitating a massive hackathon environment.
-- **Digital Marketing Intern** @ *GlaxIT* — Applied digital marketing strategies and grew my cross-functional skill set.
+- **Digital Marketing Intern** @ *GlaxIT* — Applied digital marketing strategies and grew my cross-functional skill set.<br><br>
 
 
 ### 🌐 Connect with Me:
