@@ -21,7 +21,7 @@ I don't just want to write code; I want to solve real-world problems. I believe 
 
 
 ### 🌐 Connect with Me:
-<div align="center">
+<div align="">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -34,7 +34,7 @@ I don't just want to write code; I want to solve real-world problems. I believe 
 <br>
 
 ### 💻 Tech Stack & Skills:
-<div align="center">
+<div align="">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -44,7 +44,7 @@ I don't just want to write code; I want to solve real-world problems. I believe 
 <br>
 
 ### 📊 GitHub Stats:
-<div align="center">
+<div align="">
 <img src="https://github-readme-stats.vercel.app/api?username=musfiraahmed31&theme=radical&hide_border=true" alt="Musfira's GitHub Stats" />  <br><br>
   
   <img src="https://streak-stats.demolab.com/?user=musfiraahmed31&theme=radical&hide_border=true" alt="Musfira's Streak Stats" /> 
