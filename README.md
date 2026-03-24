@@ -45,9 +45,9 @@ I don't just want to write code; I want to solve real-world problems. I believe 
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfira-ahmed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PUT_EXACT_USERNAME_HERE&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=musfira-ahmed&theme=tokyonight&hide_border=true" alt="Streak Stats" /> 
+  <img src="https://streak-stats.demolab.com/?user=PUT_EXACT_USERNAME_HERE&theme=github_dark&hide_border=true" alt="Streak Stats" /> 
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfira-ahmed&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUT_EXACT_USERNAME_HERE&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
